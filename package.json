@@ -1,0 +1,28 @@
+{
+  "name": "website-scraper-to-markdown",
+  "version": "1.0.0",
+  "description": "Scrape websites and export the content to files in markdown format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrape",
+    "markdown",
+    "ts"
+  ],
+  "author": "sebaeze@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.4",
+    "@types/cheerio": "^1.0.0",
+    "@types/node": "^22.15.21",
+    "@types/puppeteer": "^7.0.4",
+    "@types/xml2js": "^0.4.14",
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
+    "puppeteer": "^24.9.0",
+    "ts-node": "^10.9.2",
+    "xml2js": "^0.6.2"
+  }
+}

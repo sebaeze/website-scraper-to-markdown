@@ -1,3 +1,5 @@
+# app
+output/*
 # Logs
 logs
 *.log
